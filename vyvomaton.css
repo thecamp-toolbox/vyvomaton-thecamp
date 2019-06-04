@@ -1,0 +1,1040 @@
+/*
+	@name vyvomaton
+*/
+/* Only edit this if you know what you are doing! */
+
+@font-face {
+font-family: "GTAmerica Exp Bla Ita";
+src: url("font/GT-America-Expanded-Black-Italic.ttf");
+}
+
+@font-face {
+font-family: "GTAmerica Exp Bold";
+src: url("font/GT-America-Expanded-Bold.ttf");
+}
+
+@font-face {
+font-family: "GTAmerica";
+src: url("font/GT-America-Standard-Regular.ttf");
+}
+
+
+html {
+	font-size: calc(1em + 1vw);
+	scroll-behavior: smooth;
+ }
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div {position: absolute;}
+
+
+
+
+#content-container { display: table; position: relative;  overflow: hidden;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_vyvomaton_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 4000px;
+	overflow:hidden;
+}
+
+#_bg__vyvomaton_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 2505px;
+	background:rgba(255,255,255,255);
+}
+
+
+#trac__11 {
+	top: 2634px;
+	left: -1px;
+	width: 377.22958374023px;
+	height: 1050.955322px;
+}
+
+
+#trac__10 {
+	top: 1596px;
+	left: -8px;
+	width: 376.35818481445px;
+	height: 1076.4373779297px;
+}
+
+
+#trac__9 {
+	top: 500px;
+	left: 0;
+	width: 376.41381835938px;
+	height: 1125.600342px;
+}
+
+
+#trac__8 {
+	top: 0px;
+	left: 0px;
+	width: 375.04180908203px;
+	height: 666px;
+}
+
+
+#bonjour__hacker_vaillant__ {
+	top: 44px;
+	left: 30px;
+	width: 317px;
+	height: 143px;
+	font-family: 'GTAmerica Exp Bold';
+	font-size: 31px;
+	color: #FFF;
+}
+#bonjour {
+		font-size: 20px !important;
+}
+
+#groupe_5 {
+	top: 250px;
+	left: 204px;
+	width: 137px;
+	height: 65px;
+}
+#groupe_2 {
+	top: 0px;
+	left: 0px;
+	width: 137px;
+	height: 65px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 137px;
+	height: 65px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(255,236,0,255);
+}
+
+#groupe_1 {
+	top: 24px;
+	left: 42px;
+	width: 52px;
+	height: 20px;
+}
+
+#agir {
+	top: 0px;
+	left: -3px;
+	width: 57px;
+	height: 23px;
+	font-family: "GTAmerica Exp Bold";
+	font-size: 15px;
+	text-align: center;
+	color:#0000b7;
+}
+
+#groupe_4 {
+	top: 250px;
+	left: 42px;
+	width: 137px;
+	height: 65px;
+}
+#groupe_3 {
+	top: 0px;
+	left: 0px;
+	width: 137px;
+	height: 65px;
+}
+
+#rectangle_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 137px;
+	height: 65px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(255,236,0,255);
+}
+
+
+#mon__profil {
+	top: 14px;
+	left: 26px;
+	width: 83px;
+	height: 43px;
+	font-family: 'GTAmerica Exp Bold';
+	font-size: 14px;
+	text-align: center;
+	color:#0000b7;
+}
+
+
+#sans_titre___1 {
+	top: 469px;
+	left: 144px;
+	width: 150px;
+	height: 150px;
+	transform: rotate(-25deg);
+}
+
+
+#__p__mon_profil__hacker_vaillant {
+	top: 740px;
+	left: 42px;
+	width: 332px;
+	height: 177px;
+	font-family: GTAmerica Exp Bla Ita;
+	text-align: left;
+	line-height: 42px;
+	color:#0000b7;
+}
+
+
+#__p__faire_face_au_bouleversement_num_rique_et_technologique_actuel_est_un_enjeu_majeur_de_notre_g_n_ration_et_des_suivantes__et_cela_vous_anime____ethique__fracture_num_rique_et_inclusion__respect_de_la_vie_priv_e__impact_sur_la_sant___empreinte__cologique_son {
+	top: 940px;
+	left: 42px;
+	width: 300px;
+	height: 600px;
+	overflow: hidden;
+	font-family: GTAmerica;
+	font-size: 21px;
+	text-align: left;
+	line-height: 26px;
+	color:#0000b7;
+}
+
+
+#__p__agir__ {
+	top: 1681px;
+	left: 34px;
+	width: 332px;
+	height: 88px;
+	overflow: hidden;
+	font-family: GTAmerica Exp Bla Ita;
+	font-size: 40px;
+	text-align: left;
+	line-height: 40px;
+	color:#ffffff;
+}
+
+
+#__p__voici_quelques_actions_correspondant___votre_profil_hackeur_vaillant {
+	top: 1755px;
+	left: 37px;
+	width: 312px;
+	height: 105.5px;
+	/* overflow: hidden; */
+	font-family: GTAmerica;
+	font-size: 21px;
+	text-align: left;
+	line-height: 26px;
+	color:#ffffff;
+}
+
+#groupe_11 {
+	top: 850px;
+	left: 42px;
+	width: 210.84696960449px;
+	height: 43.70751953125px;
+}
+#groupe_8 {
+	top: 0px;
+	left: 0px;
+	width: 210.84696960449px;
+	height: 43.70751953125px;
+}
+#groupe_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 210.84696960449px;
+	height: 43.70751953125px;
+}
+
+#rectangle_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 210.84696960449px;
+	height: 43.70751953125px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(255,255,255,255);
+}
+
+#groupe_1_ek1 {
+	top: 16px;
+	left: 13px;
+	width: 156px;
+	height: 23px;
+}
+
+#partager_mon_profil {
+	top: -5px;
+	left: 0px;
+	width: 161px;
+	height: 27px;
+	font-family: GTAmerica;
+	font-size: 18px;
+	text-align: left;
+	color:#0000b7;
+}
+
+
+#rectangle_8 {
+	top: 16px;
+	left: 181px;
+	width: 17px;
+	height: 11px;
+}
+
+#groupe_12 {
+	top: 1867px;
+	left: 38px;
+	width: 302px;
+	height: 65px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 139px;
+	height: 65px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(255,236,0,255);
+}
+
+
+#rectangle_4 {
+	top: 0px;
+	left: 163px;
+	width: 139px;
+	height: 65px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(255,255,255,255);
+}
+
+#groupe_13 {
+	top: 1950px;
+	left: 38px;
+	width: 302px;
+	height: 65px;
+}
+
+#rectangle_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 137px;
+	height: 63px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+#grille_de_r_p_tition_1{
+	font-family: GTAmerica Exp Bold !important;
+}
+#trac__5 {
+	top: 0px;
+	left: 163px;
+	width: 139px;
+	height: 65px;
+}
+
+
+#__p__a_la_maison {
+	top: 1882px;
+	left: 57px;
+	width: 98px;
+	height: 69px;
+	overflow: hidden;
+	font-family: GTAmerica Exp Bold;
+	font-size: 12px;
+	text-align: center;
+	line-height: 18px;
+	color:#0000b7;
+}
+
+
+#__p__en_exterieur {
+	top: 1882px;
+	left: 199px;
+	width: 141px;
+	height: 59px;
+	overflow: hidden;
+	font-family: GTAmerica Exp Bold;
+	font-size: 12px;
+	text-align: center;
+	line-height: 18px;
+	color:#0000b7;
+}
+
+
+#__p__au__travail {
+	top: 1964px;
+	left: 49px;
+	width: 120px;
+	height: 66px;
+	overflow: hidden;
+	font-family: GTAmerica Exp Bold;
+	font-size: 12px;
+	text-align: center;
+	line-height: 18px;
+	color:#0000b7;
+}
+
+
+#__p___v_nements {
+	top: 1975px;
+	left: 205px;
+	width: 133px;
+	height: 46px;
+	overflow: hidden;
+	font-family: GTAmerica Exp Bold;
+	font-size: 12px;
+	text-align: center;
+	line-height: 18px;
+	color:#0000b7;
+}
+
+
+#__p__autres_profils {
+	top: 2770px;
+	left: 30px;
+	width: 332px;
+	height: 128px;
+	overflow: hidden;
+	font-family: GTAmerica Exp Bla Ita;
+	font-size: 30px;
+	text-align: left;
+	line-height: 40px;
+	color:#0000b7;
+}
+
+#groupe_17 {
+	top: 3049px;
+	left: 22px;
+	width: 338.42596435547px;
+	height: 131.96875px;
+}
+
+#trac__7 {
+	top: 54px;
+	left: 0px;
+	width: 300px;
+	height: 77.97900390625px;
+}
+
+
+#sans_titre___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 97.958915710449px;
+	height: 131.93115234375px;
+}
+
+
+#__p__eco_centrique__ {
+	top: 70px;
+	left: 111px;
+	width: 227px;
+	height: 68px;
+	overflow: hidden;
+	font-family: GT America;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#0000b7;
+}
+
+#grille_de_r_p_tition_1 {
+	top: 2866px;
+	left: 22px;
+	width: 338.42596435547px;
+	height: 618.96875px;
+	overflow:hidden;
+}
+#groupe_18 {
+	top: 0px;
+	left: 0px;
+	width: 300.42596435547px;
+	height: 131.96875px;
+}
+
+#trac__7_ek1 {
+	top: 54px;
+	left: 0px;
+	width: 300px;
+	height: 77.97900390625px;
+}
+
+
+#sans_titre___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 97.958915710449px;
+	height: 131.93115234375px;
+}
+
+
+#__p__eco_centrique___ek1 {
+	top: 70px;
+	left: 111px;
+	width: 189px;
+	height: 68px;
+	overflow: hidden;
+	font-family: GT America;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#0000b7;
+}
+
+#groupe_18_ek1 {
+	top: 152px;
+	left: 0px;
+	width: 300.42596435547px;
+	height: 131.96875px;
+}
+
+#trac__7_ek2 {
+	top: 54px;
+	left: 0px;
+	width: 300px;
+	height: 77.97900390625px;
+}
+
+
+#sans_titre___1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 97.958915710449px;
+	height: 131.93115234375px;
+}
+
+
+#__p__eco_centrique___ek2 {
+	top: 70px;
+	left: 111px;
+	width: 189px;
+	height: 68px;
+	overflow: hidden;
+	font-family: GT America;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#0000b7;
+}
+
+#groupe_18_ek2 {
+	top: 304px;
+	left: 0px;
+	width: 300.42596435547px;
+	height: 131.96875px;
+}
+
+#trac__7_ek3 {
+	top: 54px;
+	left: 0px;
+	width: 300px;
+	height: 77.97900390625px;
+}
+
+
+#sans_titre___1_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 97.958915710449px;
+	height: 131.93115234375px;
+}
+
+
+#__p__eco_centrique___ek3 {
+	top: 70px;
+	left: 111px;
+	width: 189px;
+	height: 68px;
+	overflow: hidden;
+	font-family: GT America;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#0000b7;
+}
+
+#groupe_18_ek3 {
+	top: 456px;
+	left: 0px;
+	width: 300.42596435547px;
+	height: 131.96875px;
+}
+
+#trac__7_ek4 {
+	top: 54px;
+	left: 0px;
+	width: 300px;
+	height: 77.97900390625px;
+}
+
+
+#sans_titre___1_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 97.958915710449px;
+	height: 131.93115234375px;
+}
+
+
+#__p__eco_centrique___ek4 {
+	top: 70px;
+	left: 111px;
+	width: 189px;
+	height: 68px;
+	overflow: hidden;
+	font-family: GT America;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#0000b7;
+}
+
+#groupe_18_ek4 {
+	top: 608px;
+	left: 0px;
+	width: 300.42596435547px;
+	height: 131.96875px;
+}
+
+#trac__7_ek5 {
+	top: 54px;
+	left: 0px;
+	width: 300px;
+	height: 77.97900390625px;
+}
+
+
+#sans_titre___1_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 97.958915710449px;
+	height: 131.93115234375px;
+}
+
+
+#__p__eco_centrique___ek5 {
+	top: 70px;
+	left: 111px;
+	width: 189px;
+	height: 68px;
+	overflow: hidden;
+	font-family: GT America;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#0000b7;
+}
+
+
+#fait_avec__ {
+	top: 3705px;
+	left: 134px;
+	width: 109px;
+	height: 21px;
+	font-family: GTAmerica;
+	font-size: 14px;
+	text-align: center;
+	color:#0000b7;
+}
+
+#grille_de_r_p_tition_2 {
+	top: 2067px;
+	left: 38px;
+	width: 317px;
+	height: 2000px;
+	overflow:hidden;
+	/* background: black; */
+}
+#groupe_19 {
+	top: 0px;
+	left: 0px;
+	width: 312px;
+	height: 106px;
+}
+#groupe_14 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+#composant_1___1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+
+.rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+	border-radius: 5px;
+}
+
+
+#rectangle_7 {
+	opacity: 0.65;
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(0,0,0,128);
+}
+
+
+#cuisiner_des__produis_frais {
+	top: 16px;
+	left: 23px;
+	width: 164px;
+	height: 50px;
+	font-family: GTAmerica Exp Bold;
+	font-size: 18px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_1 {
+	top: 44px;
+	left: 250px;
+	width: 60px;
+	height: 60px;
+	-ms-border-radius: 31px / 31px;
+	-o-border-radius: 31px / 31px;
+	-moz-border-radius: 31px / 31px;
+	-webkit-border-radius: 31px / 31px;
+	border-radius: 31px / 31px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#image_1 {
+	top: 61px;
+	left: 267px;
+	width: 31px;
+	height: 30px;
+}
+
+#groupe_19_ek1 {
+	top: 126px;
+	left: 0px;
+	width: 312px;
+	height: 106px;
+}
+#groupe_14_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+#composant_1___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+
+#rectangle_6_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+
+
+#rectangle_7_ek1 {
+	opacity:0.50196078431373;
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(0,0,0,128);
+}
+
+
+#cuisiner_des__produis_frais_ek1 {
+	top: 16px;
+	left: 23px;
+	width: 164px;
+	height: 50px;
+	font-family: GTAmerica Exp Bla Ita;
+	font-size: 18px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek1 {
+	top: 44px;
+	left: 250px;
+	width: 60px;
+	height: 60px;
+	-ms-border-radius: 31px / 31px;
+	-o-border-radius: 31px / 31px;
+	-moz-border-radius: 31px / 31px;
+	-webkit-border-radius: 31px / 31px;
+	border-radius: 31px / 31px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#image_1_ek1 {
+	top: 61px;
+	left: 267px;
+	width: 31px;
+	height: 30px;
+}
+
+#groupe_19_ek2 {
+	top: 252px;
+	left: 0px;
+	width: 312px;
+	height: 106px;
+}
+#groupe_14_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+#composant_1___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+
+#rectangle_6_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+
+
+#rectangle_7_ek2 {
+	opacity:0.50196078431373;
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(0,0,0,128);
+}
+
+
+#cuisiner_des__produis_frais_ek2 {
+	top: 16px;
+	left: 23px;
+	width: 164px;
+	height: 50px;
+	font-family: GT America;
+	font-size: 18px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek2 {
+	top: 44px;
+	left: 250px;
+	width: 60px;
+	height: 60px;
+	-ms-border-radius: 31px / 31px;
+	-o-border-radius: 31px / 31px;
+	-moz-border-radius: 31px / 31px;
+	-webkit-border-radius: 31px / 31px;
+	border-radius: 31px / 31px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#image_1_ek2 {
+	top: 61px;
+	left: 267px;
+	width: 31px;
+	height: 30px;
+}
+
+#groupe_19_ek3 {
+	top: 378px;
+	left: 0px;
+	width: 312px;
+	height: 106px;
+}
+#groupe_14_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+#composant_1___1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+
+#rectangle_6_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+}
+
+
+#rectangle_7_ek3 {
+	opacity:0.50196078431373;
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 87px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background:rgba(0,0,0,128);
+}
+
+
+#cuisiner_des__produis_frais_ek3 {
+	top: 16px;
+	left: 23px;
+	width: 164px;
+	height: 50px;
+	font-family: GT America;
+	font-size: 18px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek3 {
+	top: 44px;
+	left: 250px;
+	width: 60px;
+	height: 60px;
+	-ms-border-radius: 31px / 31px;
+	-o-border-radius: 31px / 31px;
+	-moz-border-radius: 31px / 31px;
+	-webkit-border-radius: 31px / 31px;
+	border-radius: 31px / 31px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#image_1_ek3 {
+	top: 61px;
+	left: 267px;
+	width: 31px;
+	height: 30px;
+}
+
+
+#digital_logo_thecamp {
+	top: 3761px;
+	left: 33px;
+	width: 138px;
+	height: 38px;
+}
+
+
+#image_2 {
+	top: 3740px;
+	left: 224px;
+	width: 120px;
+	height: 86px;
+}
+
+#groupe_9 {
+	top: 0px;
+	left: 0px;
+	width: 0px;
+	height: 0px;
+}
+
+
+/* Add your custom CSS here */
+
+
+div#grille_de_r_p_tition_2 {
+    font-family: GTAmerica Exp Bold !important;
+}
+
+
+span {}
+
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.action-text {
+    color: #FFF;
+    top: 0;
+    width: 255px;
+    padding: 12px;
+    font-size: 16px;
+    position: absolute !important;
+}
+
+
+.element-item {position: relative;display: block;width: 315px;height: 90px;margin-bottom: 30px;}
