@@ -246,6 +246,7 @@
 								<div id="ellipse_1"  ></div>
 								<img src="skins/image_1.png" id="image_1" />
 						</div>
+						
 						<div class="element-item travail alimentation" style="position:relative">
 								<img src="img/restaurant.jpeg" class="rectangle_6" />
 								<div id="rectangle_7"  ></div>
